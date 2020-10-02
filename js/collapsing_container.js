@@ -27,5 +27,4 @@ function ready()
     switchDisplaying(collapsingContainer);
   }
 }
-
 document.addEventListener("DOMContentLoaded", ready);
